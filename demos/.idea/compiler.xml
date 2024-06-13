@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spark_Optimization" />
+        <module name="test" />
+        <module name="Hive_UDTF" />
+        <module name="spark-day03_2.11" />
+        <module name="Spark_KY_Streaming" />
+        <module name="Spark_KY" />
+        <module name="Flume" />
+        <module name="spark-day04_2.11" />
+        <module name="spark-day01_2.11" />
+        <module name="HBase_Momo_Project" />
+        <module name="AzkabanTest" />
+        <module name="Hive_UDF" />
+        <module name="Flink1.14" />
+        <module name="MR_Demos" />
+        <module name="Zookeeper" />
+        <module name="kafka" />
+        <module name="spark-day02_2.11" />
+        <module name="HBase_Demos" />
+        <module name="hanLP" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spark_KuangYe" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

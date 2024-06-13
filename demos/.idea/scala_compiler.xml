@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="Spark_KY,Spark_KY_Streaming,Spark狂野大数据,spark-day01_2.11,spark-day02_2.11,spark-day03_2.11,spark-day04_2.11" />
+  </component>
+</project>

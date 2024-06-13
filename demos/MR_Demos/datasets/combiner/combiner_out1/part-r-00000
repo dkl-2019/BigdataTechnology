@@ -1,0 +1,15 @@
+azkaban	2
+flink	1
+flume	2
+hadoop	3
+hdfs	3
+hive	2
+mapreduce	2
+scala	3
+spark	2
+sparkcore	1
+sparksql	1
+sparkstream	1
+sqoop	2
+yarn	2
+zookeeper	2

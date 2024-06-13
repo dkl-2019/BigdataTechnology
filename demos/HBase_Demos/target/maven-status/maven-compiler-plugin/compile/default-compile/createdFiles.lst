@@ -1,0 +1,6 @@
+kaizi\hbase\admin\api_test\TableAdminTest.class
+kaizi\guigu\API_protect.class
+kaizi\guigu\TestAPI.class
+kaizi\hbase\data\api\ScanFilterTest.class
+kaizi\guigu\HBaseDemo.class
+kaizi\hbase\data\api\DataOpTest.class

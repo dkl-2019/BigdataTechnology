@@ -1,0 +1,7 @@
+hadoop,hdfs,yarn,mapreduce,
+hive,flume,zookeeper,hadoop,
+spark,scala,scala,sqoop,hdfs,
+mapreduce,hive,yarn,flume,spark,
+sqoop,azkaban,scala,zookeeper,
+azkaban,hdfs,hadoop,sparksql,
+sparkcore,sparkstream,flink
